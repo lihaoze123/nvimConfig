@@ -28,6 +28,8 @@ return require('packer').startup(function(use)
   use 'numToStr/Comment.nvim'
   use 'windwp/nvim-autopairs'
   use 'lewis6991/gitsigns.nvim'
+  use 'ggandor/leap.nvim'
+  use 'Mofiqul/dracula.nvim'
 
   if packer_bootstrap then
     require('packer').sync()

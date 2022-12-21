@@ -19,3 +19,4 @@ opt.smartcase = true
 
 -- 外观
 opt.signcolumn = "yes"
+vim.cmd[[colorscheme dracula]]

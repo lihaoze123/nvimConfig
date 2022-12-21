@@ -6,6 +6,7 @@ require("plugins.coc")
 require("plugins.comment")
 require("plugins.autopairs")
 require("plugins.gitsigns")
+require("plugins.leap")
 
 require("core.options")
 require("core.keymaps")
