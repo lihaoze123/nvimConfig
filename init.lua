@@ -1,0 +1,11 @@
+require("plugins.plugins-setup")
+require("plugins.lualine")
+require("plugins.nvim-tree")
+require("plugins.treesitter")
+require("plugins.coc")
+require("plugins.comment")
+require("plugins.autopairs")
+require("plugins.gitsigns")
+
+require("core.options")
+require("core.keymaps")
